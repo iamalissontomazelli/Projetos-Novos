@@ -1,0 +1,3 @@
+<h2> AJAX foi carregado </h2>
+<p> Este conteudo foi puxado de um arquivo externo</p>
+
